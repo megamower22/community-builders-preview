@@ -17,6 +17,7 @@ Live preview: https://megamower22.github.io/community-builders-preview/
 ## Good to know
 
 - **Colors** are at the top of `style.css` (look for `--teal` for the main color, `--brass` for the buttons, and `--sand` for the light background).
+- **Fonts** come from Google Fonts: **Bricolage Grotesque** for headings and buttons, **Nunito** for body text. They're set at the top of `style.css` (`--font-display` and `--font-body`).
 - Anything in yellow highlight that says **[Owner to confirm]** still needs real info from the owner. Once it's confirmed, delete the whole `<span class="placeholder">...</span>` part.
 - The phone number appears in several places. Search for `500-2150` (and `+15075002150` in the call links) to update all of them.
 - The email address appears in two places. Search for `inquiries@` to update it.
